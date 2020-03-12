@@ -1,6 +1,7 @@
 # Inaugural project
 
-Group Slaget i Køge Bugt
+Group Slaget i Køge Bugt 
+\
 March 16, 2020
 
 This project solves an individual labour supply problem of a utility-maximising agent and that of a politician seeking to maximise the tax revenue.
